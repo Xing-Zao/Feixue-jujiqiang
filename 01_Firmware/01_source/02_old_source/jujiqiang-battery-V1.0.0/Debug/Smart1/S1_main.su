@@ -1,0 +1,4 @@
+S1_main.c:20:6:HAL_TIM_PeriodElapsedCallback	8	static
+S1_main.c:30:6:idle	8	static
+S1_main.c:41:6:setup	8	static
+S1_main.c:53:6:loop	8	static

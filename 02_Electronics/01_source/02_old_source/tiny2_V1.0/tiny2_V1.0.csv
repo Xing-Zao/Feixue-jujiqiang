@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint, Datasheet
+D1 D2 D3 D4 D5 D6 ,6,"LED_Small","LED_SMD:LED_0201_0603Metric","~"
+J1 ,1,"Conn_01x06","SamacSys_Parts:JL-6P-4.0PH-5.65H","~"
+J2 ,1,"UART","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+J3 ,1,"POWER","Connector:JWT_A3963_1x02_P3.96mm_Vertical","~"
+J4 ,1,"LED","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+R1 R2 R3 R4 R5 R6 ,6,"R_Small","Resistor_SMD:R_0402_1005Metric","~"

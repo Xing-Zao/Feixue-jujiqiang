@@ -1,0 +1,4 @@
+battery.c:54:6:battery_init	8	static
+battery.c:65:6:bat_update_power_from_raw	8	static
+battery.c:89:6:bat_manage	8	static
+battery.c:96:6:battery_is_lowpower	8	static

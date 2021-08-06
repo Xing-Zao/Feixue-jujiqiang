@@ -1,0 +1,6 @@
+adc1.c:49:6:adc_start_conversion	32	static
+adc1.c:61:10:adc_get_conversion_value	8	static
+adc1.c:69:6:set_current_adc_raw	8	static
+adc1.c:107:5:get_current_adc_raw	8	static
+adc1.c:113:6:get_adc_meas_ready	8	static
+adc1.c:119:6:set_adc_meas_noready	8	static

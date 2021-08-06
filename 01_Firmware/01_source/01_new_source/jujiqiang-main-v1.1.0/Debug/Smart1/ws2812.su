@@ -1,0 +1,10 @@
+ws2812.c:54:6:ws281x_init	8	static
+ws2812.c:63:6:ws281x_close_all	16	static
+ws2812.c:80:6:ws281x_set_Pixe_rgb_buf	32	static
+ws2812.c:95:6:ws281x_set_group_all_rgb_buf	128	static
+ws2812.c:117:6:ws281x_light	8	static
+ws2812.c:130:6:ws281x_set_all_rgb_buf_light	24	static
+ws2812.c:144:6:ws2812_blu_style	8	static
+ws2812.c:155:6:ws2812_org_style	8	static
+ws2812.c:166:6:ws2812_shot_blu_style	16	static
+ws2812.c:175:6:ws2812_shot_org_style	16	static

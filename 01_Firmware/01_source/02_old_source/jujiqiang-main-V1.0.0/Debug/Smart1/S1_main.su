@@ -1,0 +1,4 @@
+S1_main.c:37:6:key_process	16	static
+S1_main.c:97:6:idle	8	static
+S1_main.c:120:6:setup	8	static
+S1_main.c:134:6:loop	8	static
